@@ -1,2 +1,2 @@
 # odin-recipes
-Basic website project using HTML
+Basic (first website) project using strictly html. 
